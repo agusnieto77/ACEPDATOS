@@ -1,0 +1,39 @@
+#' @title Datos sobre hechos armados ocurridos en Argentina entre el 25 de mayo de 1973 y el 23 de marzo de 1976.
+#' @description Datos sobre hechos armados. Se trata de una serie de datos sobre hechos armados ocurridos en el país entre 1973 y 1976, relevados por CICSO.
+#' @format se trata de una tabla con 8509 observaciones y 32 variables:
+#' \describe{
+#'   \item{hecho}{num número del hecho por año}
+#'   \item{fecha}{POSIXct fecha del hecho}
+#'   \item{objeto}{chr objeto del hecho}
+#'   \item{tipo}{chr tipo de hecho}
+#'   \item{objeto1}{chr contra quién, contra qué}
+#'   \item{fines}{chr fines, objetivos}
+#'   \item{filiac}{chr filiación partidaria u organizacional}
+#'   \item{filiac1}{chr filiación de los objetos del hecho}
+#'   \item{atribuc}{chr atribución de la responsabilidad del hecho}
+#'   \item{interv}{chr intervención de otras fuerzas}
+#'   \item{enfrent}{chr enfrentamineto}
+#'   \item{bajashum}{chr tipo de bajas humanas de los participantes, objeto del hecho (el ‘atacado’)}
+#'   \item{totbajas}{chr total de bajas humanas de los participantes objeto del hecho}
+#'   \item{bajas1}{chr total de bajas humanas objeto del hecho que provoca el hecho, cuando el objeto no es humano}
+#'   \item{bajas2}{chr tipo de bajas humanas entre los participantes ‘responsables’ del hecho (‘atacante’) }
+#'   \item{bajas3}{chr total de bajas humanas de los participantes responsables del hecho}
+#'   \item{bajas4}{chr tipo de bajas humanas de los participantes ‘intervinientes’ en el hecho (refuerzos)}
+#'   \item{bajas5}{chr total de bajas humanas de los participantes intervinientes}
+#'   \item{bajas6}{chr numero total de bajas humanas conocidas producidas en el hecho (excluidas las ‘ajenas’)}
+#'   \item{jerarq}{chr jerarquía de las bajas de los participantes objeto del hecho}
+#'   \item{jerarq1}{chr jerarquía de las bajas producidas a raíz del hecho, contra objeto no humano (‘atacado’)}
+#'   \item{jerarq2}{chr si el objeto no es humano: jerarquía del dueño, habitante habitual, etc., que caracteriza al objeto humano}
+#'   \item{jerarq3}{chr jerarquía de las bajas humanas de los participantes responsables del hecho (‘atacante’)}
+#'   \item{jerarq4}{chr jerarquía de las bajas humanas de los participantes (refuerzos) intervinientes en el hecho}
+#'   \item{jerarq5}{chr total de bajas humanas ajenas a los participantes objeto, responsables y /o intervinientes}
+#'   \item{material}{chr bajas materiales gue se hayan producido a raíz del hecho}
+#'   \item{pertenen}{chr pertenencia de las bajas materiales}
+#'   \item{ubicacio}{chr ubicación del hecho: tipo de zona}
+#'   \item{departam}{chr ubicación del hecho: por departamento}
+#'   \item{provinci}{chr ubicación del hecho: por provincia}
+#'   \item{ciudad}{chr ubicación del hecho: por ciudad}
+#'   \item{zonas}{chr tipo de zona urbana}
+#' }
+#' @source Marín, J. C. (1984) Los hechos armados un ejercicio posible. Centro de Investigaciones en Ciencias Sociales.
+"hechos_armados"

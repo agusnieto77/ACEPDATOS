@@ -8,7 +8,7 @@
 se trata de una tabla con 16 observaciones y 4 variables:
 \describe{
 \item{fecha}{dbl Años}
-\item{conflictos_con_paro}{dbl frecuencia de conflcitos con paro por año}
+\item{conflictos_con_paro}{dbl frecuencia de conflictos con paro por año}
 \item{huelguistas}{dbl frecuencia de huelguistas por año}
 \item{jornadas_perdidas}{dbl frecuencia de jornadas perdidas por año}
 }
