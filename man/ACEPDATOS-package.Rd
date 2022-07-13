@@ -6,6 +6,8 @@
 \alias{ACEPDATOS-package}
 \title{ACEPDATOS: Datos para analizar la conflictividad social}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 Se trata de un paquete de datos para usar con la librería ACEP.
 }
 \author{
