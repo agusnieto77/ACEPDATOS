@@ -9,7 +9,7 @@
 
 ### Visión general
 
-ACEPDATOS es un paquete de datos en lenguaje R útiles para complementar el análisis de eventos de protesta en corpus de textos periodísticos con el paquete ACEP.
+ACEPDATOS es un paquete de datos en lenguaje R útil para complementar las funciones del paquete ACEP en el análisis de eventos de protesta en corpus de textos periodísticos.
 
 ### Instalación de la versión en desarrollo
 
