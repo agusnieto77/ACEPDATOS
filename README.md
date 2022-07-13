@@ -1,5 +1,5 @@
 
-# ACEPDATOS: Datos para analizar la conflictividad social<img src="man/figures/logo.png" align="right" height="139"/>
+# ACEPDATOS: Datos sobre la conflictividad social<img src="man/figures/logo.png" align="right" height="139"/>
 
 <!-- badges: start -->
 [![](https://img.shields.io/badge/devel%20version-0.0.0.9000-blue.svg)](https://github.com/agusnieto77/ACAPDATOS)
@@ -9,7 +9,7 @@
 
 ### Visión general
 
-ACEPDATOS es un paquete de datos en lenguaje R útiles para complementar el análisis de eventos de protesta en corpus de textos periodísticos con el apquete ACEP.
+ACEPDATOS es un paquete de datos en lenguaje R útiles para complementar el análisis de eventos de protesta en corpus de textos periodísticos con el paquete ACEP.
 
 ### Instalación de la versión en desarrollo
 
