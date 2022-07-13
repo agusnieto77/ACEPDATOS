@@ -3,7 +3,7 @@
 #' @format se trata de una tabla con 27 observaciones y 5 variables:
 #' \describe{
 #'   \item{dep}{chr dependencias administrativas: Estado Municipal, Estado Provincial, Estado Nacional}
-#'   \item{fecha}{dbl años}
+#'   \item{fecha}{chr años}
 #'   \item{conf_paro}{dbl frecuencia de conflictos con paro por año}
 #'   \item{huelguistas}{dbl frecuencia de huelguistas por año}
 #'   \item{jornadas_perdidas}{dbl frecuencia de jornadas perdidas por año}

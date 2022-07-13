@@ -8,7 +8,7 @@
 se trata de una tabla con 900 observaciones y 6 variables:
 \describe{
 \item{prov}{chr provincias argentinas}
-\item{fecha}{dbl años}
+\item{fecha}{chr años}
 \item{conf_paro}{dbl frecuencia de conflictos con paro por año}
 \item{huelguistas}{dbl frecuencia de huelguistas por año}
 \item{jornadas_perdidas}{dbl frecuencia de jornadas perdidas por año}

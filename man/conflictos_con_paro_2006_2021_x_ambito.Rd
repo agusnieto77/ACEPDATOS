@@ -5,13 +5,15 @@
 \alias{conflictos_con_paro_2006_2021_x_ambito}
 \title{Datos sobre conflictividad laboral por ámbito}
 \format{
-se trata de una tabla con 32 observaciones y 5 variables:
+se trata de una tabla con 32 observaciones y 7 variables:
 \describe{
-\item{fecha}{dbl Años}
+\item{fecha}{dbl años}
 \item{conflictos_con_paro}{dbl frecuencia de conflictos con paro por año}
 \item{huelguistas}{dbl frecuencia de huelguistas por año}
 \item{jornadas_perdidas}{dbl frecuencia de jornadas perdidas por año}
 \item{ambito}{chr tipo de ámbito en donde se desarrolló el conflicto con paro: estatal/privado}
+\item{pro_huel_x_conf}{dbl relación huelguistas/huelgas}
+\item{pro_jor_x_huel}{dbl relación jornadas perdidas/huelgustas}
 }
 }
 \source{

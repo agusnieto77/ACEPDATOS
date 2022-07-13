@@ -7,8 +7,8 @@
 \format{
 se trata de una tabla con 24 observaciones y 3 variables:
 \describe{
-\item{prov}{dbl provincia}
-\item{pob}{chr población}
+\item{prov}{chr provincia}
+\item{pob}{dbl población}
 \item{fecha}{chr año}
 }
 }

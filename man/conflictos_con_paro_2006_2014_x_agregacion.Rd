@@ -5,7 +5,7 @@
 \alias{conflictos_con_paro_2006_2014_x_agregacion}
 \title{Datos sobre conflictividad laboral por nivel de agregación}
 \format{
-se trata de una tabla con 27 observaciones y 5 variables:
+se trata de una tabla con 81 observaciones y 6 variables:
 \describe{
 \item{agreg}{chr nivel de agregación: Lugar de Trabajo, Rama Local, Rama Nacional}
 \item{fecha}{chr años}
@@ -22,6 +22,6 @@ se trata de una tabla con 27 observaciones y 5 variables:
 conflictos_con_paro_2006_2014_x_agregacion
 }
 \description{
-Datos sobre conflictividad laboral. Se trata de una serie de datos sobre conflictos con paro discriminados por dependencia estatal-administrativa, relevados por la cartera de trabajo de Argentina.
+Datos sobre conflictividad laboral. Se trata de una serie de datos sobre conflictos con paro discriminados por nivel de agregación, relevados por la cartera de trabajo de Argentina.
 }
 \keyword{datasets}

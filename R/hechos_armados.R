@@ -1,5 +1,5 @@
-#' @title Datos sobre hechos armados ocurridos en Argentina entre el 25 de mayo de 1973 y el 23 de marzo de 1976.
-#' @description Datos sobre hechos armados. Se trata de una serie de datos sobre hechos armados ocurridos en el país entre 1973 y 1976, relevados por CICSO.
+#' @title Datos sobre hechos armados ocurridos en Argentina entre el 26 de mayo de 1973 y el 24 de marzo de 1976.
+#' @description Datos sobre hechos armados. Se trata de una serie de datos sobre hechos armados ocurridos en el país entre 1973 y 1976, relevados por un grupo de investigadorxs del CICSO.
 #' @format se trata de una tabla con 8509 observaciones y 32 variables:
 #' \describe{
 #'   \item{hecho}{num número del hecho por año}
@@ -35,5 +35,5 @@
 #'   \item{ciudad}{chr ubicación del hecho: por ciudad}
 #'   \item{zonas}{chr tipo de zona urbana}
 #' }
-#' @source Marín, J. C. (1984) Los hechos armados un ejercicio posible. Centro de Investigaciones en Ciencias Sociales.
+#' @source Marín, J. C. (1984) Los hechos armados un ejercicio posible. Centro de Investigaciones en Ciencias Sociales. Buenos Aires.
 "hechos_armados"
