@@ -18,7 +18,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Nieto Agustín \email{agustin.nieto77@gmail.com} (\href{https://orcid.org/0000-0003-4467-873X}{ORCID})
+\strong{Maintainer}: Agustín Nieto \email{agustin.nieto77@gmail.com} (\href{https://orcid.org/0000-0003-4467-873X}{ORCID})
 
 }
 \keyword{internal}
