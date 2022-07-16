@@ -21,7 +21,7 @@ Puedes instalar la versión de desarrollo de ACEPDATOS desde
 devtools::install_github("agusnieto77/ACEPDATOS")
 ```
 
-## Un ejemplo
+### Un ejemplo
 
 ``` r
 library(ACEPDATOS)
