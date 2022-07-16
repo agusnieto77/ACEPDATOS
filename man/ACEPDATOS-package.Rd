@@ -10,6 +10,13 @@
 
 Se trata de un paquete de datos para usar con la librería ACEP.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://agusnieto77.github.io/ACEPDATOS/}
+}
+
+}
 \author{
 \strong{Maintainer}: Nieto Agustín \email{agustin.nieto77@gmail.com} (\href{https://orcid.org/0000-0003-4467-873X}{ORCID})
 
