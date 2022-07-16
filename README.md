@@ -1,4 +1,3 @@
-
 # ACEPDATOS: Datos sobre conflictividad social<img src="man/figures/logo.png" align="right" height="139"/>
 
 <!-- badges: start -->
@@ -27,4 +26,3 @@ devtools::install_github("agusnieto77/ACEPDATOS")
 library(ACEPDATOS)
 data(bd_sismos_mdp)
 ```
-
